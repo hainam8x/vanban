@@ -1,17 +1,16 @@
 ---
-description: as
+description: >-
+  (Ban hành và công bố theo Quyết định số 165/2002/QĐ-BTCngày 31 tháng 12 năm
+  2002 của Bộ trưởng Bộ Tài chính, và có hiệu lực thi hành từ ngày 01/01/2003)
 ---
 
-# VAS 06
+# VAS 06 - Thuê Tài Sản
 
 **CHUẨN MỰC KÊ TOÁN VIỆT NAM SỐ 06**
 
 **THUÊ TÀI SẢN**
 
-_**\(Ban hành và công bố theo Quyết định số 165/2002/QĐ-BTC  
-ngày 31 tháng 12 năm 2002 của Bộ trưởng Bộ Tài chính, và**_
-
-_**có hiệu lực thi hành từ ngày 01/01/2003\)**_
+\*\*\*\*
 
 **QUY ĐỊNH CHUNG**
 
