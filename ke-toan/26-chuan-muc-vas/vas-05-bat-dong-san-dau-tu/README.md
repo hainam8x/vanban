@@ -1,13 +1,16 @@
-# VAS 05 - BẤT ĐỘNG SẢN ĐẦU TƯ
+---
+description: >-
+  (Ban hành và công bố theo Quyết định số 234/2003/QĐ-BTCngày 31 tháng 12 năm
+  2003 của Bộ trưởng Bộ Tài chính, vàcó hiệu lực thi hành từ 15/02/2004)
+---
 
-**CHUẨN MỰC KẾ TOÁN VIỆT NAM SỐ 05**
+# VAS 05 - Bất Động Sản Đầu Tư
+
+ **CHUẨN MỰC KẾ TOÁN VIỆT NAM SỐ 05**
 
 **BẤT ĐỘNG SẢN ĐẦU TƯ**
 
-_**\(Ban hành và công bố theo Quyết định số 234/2003/QĐ-BTC  
-ngày 31 tháng 12 năm 2003 của Bộ trưởng Bộ Tài chính, và**_
-
-_**có hiệu lực thi hành từ 15/02/2004\)**_
+\*\*\*\*
 
 **QUY ĐỊNH CHUNG**
 
