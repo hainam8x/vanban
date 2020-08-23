@@ -23,8 +23,10 @@
     * [89/2002/TT-BTC - Hướng dẫn VAS 03](ke-toan/untitled/vas-03-tai-san-co-dinh-huu-hinh/89-2002-tt-btc-huong-dan-vas-03.md)
   * [VAS 04](ke-toan/untitled/untitled/README.md)
     * [89/2002/TT-BTC hướng dẫn VAS 04](ke-toan/untitled/untitled/89-2002-tt-btc-huong-dan-vas-04.md)
-  * [VAS 05 - BẤT ĐỘNG SẢN ĐẦU TƯ](ke-toan/untitled/vas-05-bat-dong-san-dau-tu.md)
-  * [Untitled](ke-toan/untitled/untitled-1.md)
+  * [VAS 05 - BẤT ĐỘNG SẢN ĐẦU TƯ](ke-toan/untitled/vas-05-bat-dong-san-dau-tu/README.md)
+    * [Untitled](ke-toan/untitled/vas-05-bat-dong-san-dau-tu/untitled.md)
+    * [161/2007/TT-BTC - Hướng dẫn VAS 05](ke-toan/untitled/vas-05-bat-dong-san-dau-tu/161-2007-tt-btc-huong-dan-vas-05.md)
+  * [VAS 06](ke-toan/untitled/untitled-1.md)
 * [Chế Độ Kế Toán](ke-toan/che-do-ke-toan.md)
 * [Luật Kế Toán](ke-toan/luat-ke-toan.md)
 
