@@ -28,6 +28,8 @@
     * [161/2007/TT-BTC - Hướng dẫn VAS 05](ke-toan/26-chuan-muc-vas/vas-05-bat-dong-san-dau-tu/161-2007-tt-btc-huong-dan-vas-05.md)
   * [VAS 06 - Thuê Tài Sản](ke-toan/26-chuan-muc-vas/untitled-1.md)
   * [VAS 07 - Kế Toán Khoản Đầu Tư Vào Công Ty Liên Kết](ke-toan/26-chuan-muc-vas/vas-07-ke-toan-khoan-dau-tu-vao-cong-ty-lien-ket.md)
+  * [VAS 08 - Thông Tin Tài Chính Về Những Khoản Góp Vốn Liên Doanh](ke-toan/26-chuan-muc-vas/vas-08-thong-tin-tai-chinh-ve-nhung-khoan-gop-von-lien-doanh.md)
+  * [VAS 10 - Ảnh Hưởng Của Việc Thay Đổi Tỷ Giá Hối Đoái](ke-toan/26-chuan-muc-vas/vas-10-anh-huong-cua-viec-thay-doi-ty-gia-hoi-doai.md)
   * [Untitled](ke-toan/26-chuan-muc-vas/untitled-2.md)
 * [Chế Độ Kế Toán](ke-toan/che-do-ke-toan.md)
 * [Luật Kế Toán](ke-toan/luat-ke-toan.md)
