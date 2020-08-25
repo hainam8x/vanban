@@ -5,6 +5,7 @@
 ## Thuế
 
 * [Quản Lý Thuế](thue/untitled/README.md)
+  * [Luật số 21/2012/QH13 - 20/11/2012](thue/untitled/luat-so-21-2012-qh13-20-11-2012.md)
   * [Luật số 38/2019/QH14 - 13/6/2019](thue/untitled/luat-so-38-2019-qh14-13-6-2019.md)
 * [Hóa Đơn Chứng Từ](thue/hoa-don-chung-tu.md)
 * [Thuế Giá Trị Gia Tăng](thue/thue-gia-tri-gia-tang.md)
